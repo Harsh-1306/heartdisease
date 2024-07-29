@@ -15,17 +15,9 @@ Click the "Predict" button to see if the individual is classified as having hear
 The classifier is built using the RandomForestClassifier algorithm, which is particularly suited for classification tasks. The model is trained on a dataset of health parameters labeled with the presence or absence of heart disease. The model achieves an accuracy greater than 99%.
 ## Screenshots
 
-<div align="center">
-    <img src="screenshots/heart.png" width="800px" height="800px"></img> 
-</div>
-<hr>
-<div align="center">
-    <img src="screenshots/heart2.png" width="800px" height="800px"></img> 
-</div>
-<hr>
-<div align="center">
-    <img src="screenshots/heart3.png" width="800px" height="800px"></img> 
-</div>
+![image](https://github.com/Harsh-1306/heartdisease/blob/master/screenshots/heart.png)
+![image](https://github.com/Harsh-1306/heartdisease/blob/master/screenshots/heart2.png)
+![image](https://github.com/Harsh-1306/heartdisease/blob/master/screenshots/heart3.png)
 
 
 # Technology
