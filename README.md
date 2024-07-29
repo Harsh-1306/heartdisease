@@ -16,15 +16,15 @@ The classifier is built using the RandomForestClassifier algorithm, which is par
 ## Screenshots
 
 <div align="center">
-    <img src="screenshots/heart.png" width="600px" height="600px"></img> 
+    <img src="screenshots/heart.png" width="800px" height="800px"></img> 
 </div>
 <hr>
 <div align="center">
-    <img src="screenshots/heart2.png" width="600px" height="600px"></img> 
+    <img src="screenshots/heart2.png" width="800px" height="800px"></img> 
 </div>
 <hr>
 <div align="center">
-    <img src="screenshots/heart3.png" width="600px" height="500px"></img> 
+    <img src="screenshots/heart3.png" width="800px" height="800px"></img> 
 </div>
 
 
